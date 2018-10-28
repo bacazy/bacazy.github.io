@@ -1,1 +1,3 @@
-# bacazy.github.io
+# Bacazy
+
+[View Blog](https://bacazy.github.io)
